@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "470411996128",
+    "firebase_url": "https://api-project-470411996128.firebaseio.com",
+    "project_id": "api-project-470411996128",
+    "storage_bucket": "api-project-470411996128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470411996128:android:ffa3d3c0cce4e47c",
+        "android_client_info": {
+          "package_name": "com.matchmaker.epsilon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470411996128-u06t4794h825tqsnmeccogv3pjmjmhio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLs9U0LfWi9nN2XgdnslJdu7FJiW6k_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
